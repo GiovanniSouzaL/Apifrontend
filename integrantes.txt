@@ -1,0 +1,8 @@
+FIAP - Global Solution 2026/2 - CitizenTech
+Projeto: Cidade em Dia - API Java (apoio ao projeto de Front-End Design Engineering)
+
+Projeto individual
+
+RM: 556536
+Nome completo: Giovanni de Souza Lima
+Turma: 1TDSPI
